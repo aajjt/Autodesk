@@ -1,0 +1,21 @@
+{
+  "value": [
+    {
+      "id": "123456",
+      "name": "document1.docx",
+      "size": 12340,
+      "@microsoft.graph.downloadUrl": "https://contoso-my.sharepoint.com/download.aspx?guid=1231231231a",
+      "webUrl": "https://cotoso-my.sharepoint.com/personal/user_contoso_com/documents/document1.docx",
+      "thumbnails": [
+        {
+          "id": "0",
+          "small": { "url": "https://sn3302files.onedrive.live.com/..." },
+          "medium": { "url": "https://sn3302files.onedrive.live.com/..." },
+          "large": { "url": "https://sn3302files.onedrive.live.com/..." }
+        }
+      ]
+    }
+  ],
+  "accessToken": "ey...",
+  "apiEndpoint": "https://graph.microsoft.com"
+}
